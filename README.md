@@ -17,10 +17,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=harryz205&theme=blueberry&show_icons=true&hide_border=true&count_private=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=harryz205&theme=blueberry&show_icons=true&hide_border=true&layout=compact">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryz205&theme=blueberry&show_icons=true&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryz205&theme=blueberry&show_icons=true&hide_border=true&layout=compact" />
 </a>
-
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=harryz205&theme=blueberry&hide_border=true">
-  <img width=478 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harryz205&theme=blueberry&hide_border=true" />
-</a>
-
