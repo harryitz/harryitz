@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harry</h1>
 <h3 align="center">A passionate backend developer from VietNam</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harryz205" alt="harryz205" /></a> </p>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=Be%20yourself,%20don't%20be%20anyone%20else&author=harryitz)](https://github.com/harryz205)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harryz205&theme=algolia" alt="harryz205" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
