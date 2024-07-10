@@ -13,7 +13,7 @@ Hi 👋, I'm Harry. I am a freelance developer and studying at Da Nang Polytechn
 </picture>
 
 -   ✏️ Javascript / TypeScript / PHP / Python
--   🌱 Learn about user support services at @ProjectsXInc
+-   🌱 Learn about user support services at [@AuraTeam](https://github.com/AuraTeamAZ)
 -   ⚡ Interest: Read books, play game, and sleep!
 -   🏆 I'm striving to increase [GitHub stats rating](#🏆-my-stats) by contributing to open source.
 -   📫 How to reach me: [nguyenhieu.c47s@gmail.com](mailto:nguyenhieu.c47s@gmail.com)
